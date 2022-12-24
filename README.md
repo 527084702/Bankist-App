@@ -7,3 +7,7 @@ The main function included in this app are :
 2. Transfer Money
 3. Request Loan
 4. Close account
+
+# Test Account
+Acc: ac
+Pwd: 1111
